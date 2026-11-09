@@ -53,13 +53,13 @@ Be the reason someone survives today.
 
 | Page | Description |
 |:---:|:---:|
-| 🚨 **Emergency Feed** | Live verified hospital SOS cases |
-| 🔍 **Find Donors** | Search voluntary donors by blood group & city |
-| 📝 **Register** | WHO eligibility screening + donor registration |
-| 🏥 **Blood Banks** | Real-time inventory across licensed centers |
-| 📅 **Donation Camps** | Upcoming drives + priority slot booking |
-| 🧬 **Compatibility** | Interactive ABO & Rh factor matrix |
-| 🪪 **Donor Card** | Printable digital donor credential |
+|  **Emergency Feed** | Live verified hospital SOS cases |
+|  **Find Donors** | Search voluntary donors by blood group & city |
+| **Register** | WHO eligibility screening + donor registration |
+|  **Blood Banks** | Real-time inventory across licensed centers |
+|  **Donation Camps** | Upcoming drives + priority slot booking |
+|  **Compatibility** | Interactive ABO & Rh factor matrix |
+|  **Donor Card** | Printable digital donor credential |
 
 </div>
 
@@ -148,14 +148,14 @@ Be the reason someone survives today.
 
 | Layer | Technology | Version |
 |:---:|:---:|:---:|
-| ⚛️ UI Framework | **React** | 18.3 |
-| 🔷 Language | **TypeScript** | 5.6 |
-| ⚡ Build Tool | **Vite** | 5.4 |
-| 🎨 Styling | **Tailwind CSS** | 3.4 |
-| 🎯 Icons | **Lucide React** | 0.469 |
-| 💾 Storage | **LocalStorage API** | — |
-| 🚀 Hosting | **GitHub Pages** | — |
-| 🔄 CI/CD | **GitHub Actions** | — |
+|  UI Framework | **React** | 18.3 |
+|  Language | **TypeScript** | 5.6 |
+|  Build Tool | **Vite** | 5.4 |
+|  Styling | **Tailwind CSS** | 3.4 |
+|  Icons | **Lucide React** | 0.469 |
+|  Storage | **LocalStorage API** | — |
+|  Hosting | **GitHub Pages** | — |
+|  CI/CD | **GitHub Actions** | — |
 
 </div>
 
@@ -167,19 +167,19 @@ Be the reason someone survives today.
 🩸 blood-donation-app/
 │
 ├── 📁 .github/workflows/
-│   └── 🚀 deploy.yml               ← Auto GitHub Pages deployment
+│   └──  deploy.yml               ← Auto GitHub Pages deployment
 │
 ├── 📁 src/
 │   ├── 📁 components/
-│   │   ├── 🚨 UrgentRequests.tsx   ← Live emergency SOS feed
-│   │   ├── 🔍 DonorSearch.tsx      ← Verified donor search
-│   │   ├── 📝 DonorRegistration.tsx← WHO eligibility + signup
-│   │   ├── 🏥 BloodBankInventory   ← Real-time stock tracker
-│   │   ├── 📅 DonationCamps.tsx    ← Camps + slot booking
-│   │   ├── 🧬 CompatibilityGuide  ← ABO/Rh matrix
-│   │   ├── 🪪 DigitalDonorCard     ← Printable donor ID
-│   │   ├── 📢 EmergencySOSModal   ← Post blood request
-│   │   └── 🧭 Navbar.tsx          ← Navigation + helpline ticker
+│   │   ├──  UrgentRequests.tsx   ← Live emergency SOS feed
+│   │   ├──  DonorSearch.tsx      ← Verified donor search
+│   │   ├──  DonorRegistration.tsx← WHO eligibility + signup
+│   │   ├──  BloodBankInventory   ← Real-time stock tracker
+│   │   ├──  DonationCamps.tsx    ← Camps + slot booking
+│   │   ├──  CompatibilityGuide  ← ABO/Rh matrix
+│   │   ├──  DigitalDonorCard     ← Printable donor ID
+│   │   ├──  EmergencySOSModal   ← Post blood request
+│   │   └──  Navbar.tsx          ← Navigation + helpline ticker
 │   ├── 📁 data/mockData.ts         ← Genuine hospital seed data
 │   ├── 📁 types/index.ts           ← TypeScript definitions
 │   ├── 📁 utils/storage.ts         ← LocalStorage persistence
