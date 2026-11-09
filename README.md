@@ -28,7 +28,8 @@
 
 ```
 Every 2 seconds, someone in India needs blood.
-One donation can save up to 3 lives. 🩸
+One whole blood donation can save up to 3 lives. 🩸
+Be the reason someone survives today.
 ```
 
 </div>
