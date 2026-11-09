@@ -351,7 +351,7 @@ Verified Hospital Emergency. Please donate or forward immediately!`;
 
                     {/* Direct Call Button */}
                     <a
-                      href={`tel:${req.contactPhone.replace(/\s+/g, '')}`}
+                      href={`tel:${(req.contactPhone || '').replace(/\s+/g, '')}`}
                       className="bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition flex items-center gap-1.5"
                     >
                       <Phone className="w-3.5 h-3.5" />
