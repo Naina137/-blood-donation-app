@@ -49,7 +49,7 @@ Be the reason someone survives today.
 
 <div align="center">
 
-### 👉 [https://Naina137.github.io/-blood-donation-app/](https://Naina137.github.io/-blood-donation-app/)
+### 👉 https://blood-donation-app-website.onrender.com/
 
 | Page | Description |
 |:---:|:---:|
